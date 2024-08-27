@@ -1,6 +1,14 @@
-body{background-color: rgb(7, 1, 14);}
+body{
+    background-color: rgb(7, 1, 14); 
+    text-align: center;
+}
 
-p{color: #754899;}
+p{
+    color: #754899;
+}
 .Ana{
     font-style: italic;
+}
+
+.Ana {width: 50%;
 }
