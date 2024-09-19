@@ -1,14 +1,26 @@
-body{
-    background-color: rgb(229, 223, 236); 
-    text-align: center;
+body {
+    background-color: rgba(227, 223, 230, 0.925));
+    margin: 0px
 }
 
-p{
-    color: #7c5999;
+nav a {
+   margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgba(160, 67, 147, 0.726)
 }
-.Ana{
+h1 {
+    color: rgb(72, 26, 109);
+}
+.img1 {
     font-style: italic;
 }
 
-.Ana {width: 70%;
+.img1 {
+    width: 50%;
+}
+
+.centro {
+    text-align: center;
 }
