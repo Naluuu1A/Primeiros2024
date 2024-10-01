@@ -14,6 +14,9 @@ nav a {
 h1 {
     color: rgb(160, 142, 184);
 }
+.categoria-video img {
+    opacity: 0.6;
+
 .Ana{
     font-style: italic;
 }
@@ -23,5 +26,8 @@ h1 {
 }
 
 .centro {
-    text-align: center;
+    text-align: justify;
+}
+img {
+    height: 200px;
 }
