@@ -7,8 +7,9 @@ nav a {
    margin-top: 5px;
     padding: 2px;
     font-size: 20px;
-    text-decoration: none;
-    color:rgba(160, 67, 147, 0.726)
+    color:rgba(160, 67, 147, 0.726) 
+    
+    
 }
 h1 {
     color: rgb(72, 26, 109);
